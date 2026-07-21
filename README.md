@@ -1,379 +1,327 @@
-<!-- Replace YOUR_GITHUB_USERNAME in the GitHub widgets below with your actual GitHub handle. -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Muhammad%20Fahad%20Usmani&fontSize=48&fontColor=ffffff&animation=fadeIn" alt="Muhammad Fahad Usmani header" />
-</p>
-
-<h1 align="center">Muhammad Fahad Usmani</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=C7D2FE&center=true&vCenter=true&multiline=false&repeat=true&width=980&lines=Founder+%26+Lead+Developer;AI+Developer;Full+Stack+Developer;Software+Engineer;Graphic+Designer;UI%2FUX+Designer;Digital+Strategist" alt="Typing animation" />
-</p>
-
-<p align="center">
-  <a href="https://fahadusmanii.vercel.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Founder-%26%20Lead%20Developer-111827?style=for-the-badge&logo=github&logoColor=white" alt="Founder & Lead Developer" /></a>
-  <a href="https://fahadusmanii.vercel.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/AI%20Developer-111827?style=for-the-badge&logo=openai&logoColor=white" alt="AI Developer" /></a>
-  <a href="https://fahadusmanii.vercel.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Full%20Stack%20Developer-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Full Stack Developer" /></a>
-</p>
-
-<p align="center">
-  <a href="https://fahadusmanii.vercel.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Software%20Engineer-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Software Engineer" /></a>
-  <a href="https://fahadusmanii.vercel.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/UI%2FUX%20Designer-111827?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Designer" /></a>
-  <a href="https://fahadusmanii.vercel.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Digital%20Strategist-111827?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Digital Strategist" /></a>
-</p>
-
-<p align="center">
-  <strong>Building intelligent digital products and modern software with premium experiences, thoughtful design, and measurable business value.</strong>
-</p>
-
-<p align="center">
-  <a href="https://fahadusmanii.vercel.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Usmani%20Stack-AI%20Powered%20Digital%20Agency-0f172a?style=flat-square&labelColor=111827&color=1f2937" alt="Usmani Stack" /></a>
-  <a href="mailto:fahad.usmanistack@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Available%20for-Freelance%20Projects-0f172a?style=flat-square&labelColor=111827&color=1f2937" alt="Available for freelance projects" /></a>
-</p>
-
----
-
-<h2 align="center">About Me</h2>
-
-<p align="center">
-My name is <strong>Muhammad Fahad Usmani</strong>.<br>
-I am a <strong>Full Stack Developer</strong>, <strong>AI Developer</strong>, <strong>Software Engineer</strong>, <strong>Graphic Designer</strong>, <strong>UI/UX Designer</strong>, and <strong>Digital Strategist</strong>.<br>
-I am the <strong>Founder &amp; Lead Developer of Usmani Stack</strong>, an AI-powered digital agency that helps businesses build intelligent digital products and modern software solutions.
-</p>
-
-<p align="center">
-I specialize in Artificial Intelligence, AI Automation, Full Stack Development, Modern Web Applications, SaaS Platforms, Business Software, Enterprise Applications, Responsive Websites, UI/UX Design, Graphic Design, Brand Identity, SEO, and Digital Marketing.
-</p>
-
-<p align="center">
-I enjoy transforming ideas into scalable digital products with exceptional user experiences, where strategy, engineering, and design all move in the same direction.
-</p>
-
-<table align="center" width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Focus-AI%20Products-111827?style=for-the-badge&logo=openai&logoColor=white" alt="AI Products" />
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Focus-Modern%20Software-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Modern Software" />
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Focus-Scalable%20UX-111827?style=for-the-badge&logo=figma&logoColor=white" alt="Scalable UX" />
-    </td>
-  </tr>
-</table>
-
----
-
-<h2 align="center">Experience</h2>
-
-<table align="center" width="100%" cellpadding="0" cellspacing="16">
-  <tr>
-    <td width="50%" valign="top">
-      <table width="100%" cellpadding="18" cellspacing="0" bgcolor="#0B1220" border="1" bordercolor="#1E293B">
-        <tr>
-          <td valign="top">
-            <p align="left">
-              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#A78BFA" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-                <path d="M4 18h16" />
-                <path d="M6 18V8l6-4 6 4v10" />
-                <path d="M10 18v-5h4v5" />
-              </svg>
-              <strong>Founder &amp; Lead Developer</strong>
-            </p>
-            <p>
-              <strong>Usmani Stack</strong><br>
-              <em>AI-Powered Digital Agency</em>
-            </p>
-            <p>
-              Leading product strategy, engineering, design, and digital growth for an AI-powered agency that helps businesses build intelligent digital products and modern software solutions.
-            </p>
-            <ul>
-              <li>AI Development</li>
-              <li>AI Automation</li>
-              <li>AI Chatbots</li>
-              <li>Custom Software Development</li>
-              <li>Full Stack Development</li>
-              <li>SaaS Development</li>
-              <li>Business Websites</li>
-              <li>UI/UX Design</li>
-              <li>Graphic Design</li>
-              <li>Brand Identity</li>
-              <li>SEO</li>
-              <li>Digital Marketing</li>
-            </ul>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td width="50%" valign="top">
-      <table width="100%" cellpadding="18" cellspacing="0" bgcolor="#0B1220" border="1" bordercolor="#1E293B">
-        <tr>
-          <td valign="top">
-            <p align="left">
-              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#67E8F9" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-                <path d="M8 3h8" />
-                <path d="M12 3v18" />
-                <path d="M5 7h14" />
-                <path d="M7 21h10" />
-                <path d="M6 7l2 14" />
-                <path d="M18 7l-2 14" />
-              </svg>
-              <strong>Graphic Designer</strong>
-            </p>
-            <p>
-              <strong>Learning Resource Network (LRN)</strong><br>
-              <em>United Kingdom</em><br>
-              <span>Working for more than one year</span>
-            </p>
-            <p>
-              Creating polished educational and publication design assets for a respected UK learning organization, with a strong focus on clarity, typography, and print-ready execution.
-            </p>
-            <ul>
-              <li>Educational Book Design</li>
-              <li>Academic Publications</li>
-              <li>Book Layout Design</li>
-              <li>Timetable Design</li>
-              <li>Print Materials</li>
-              <li>Learning Resources</li>
-              <li>Official Documents</li>
-              <li>Certificates</li>
-              <li>Marketing Materials</li>
-              <li>Typography</li>
-              <li>Publication Design</li>
-              <li>Print Production</li>
-            </ul>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
----
-
-<h2 align="center">Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,nodejs,express,mongodb,mysql&perline=11" alt="Core technology icons" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,git,github,linux,vscode,postman,vercel,cloudflare,figma,photoshop,illustrator,webflow,framer,firebase,supabase,npm,pnpm,bun,markdown,docker&perline=10" alt="Tools and platforms icons" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Development-111827?style=for-the-badge&logo=openai&logoColor=white" alt="AI Development" />
-  <img src="https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-111827?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Automation-111827?style=for-the-badge&logo=n8n&logoColor=white" alt="AI Automation" />
-  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge&logo=swagger&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/UI%2FUX%20Design-111827?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Design" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Graphic%20Design-111827?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Graphic Design" />
-  <img src="https://img.shields.io/badge/Publication%20Design-111827?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Publication Design" />
-  <img src="https://img.shields.io/badge/SEO-111827?style=for-the-badge&logo=google&logoColor=white" alt="SEO" />
-  <img src="https://img.shields.io/badge/Business%20Software-111827?style=for-the-badge&logo=notion&logoColor=white" alt="Business Software" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Enterprise%20Applications-111827?style=for-the-badge&logo=airbyte&logoColor=white" alt="Enterprise Applications" />
-</p>
-
----
-
-<h2 align="center">Services</h2>
-
-<table align="center" width="100%" cellpadding="0" cellspacing="16">
-  <tr>
-    <td width="33.33%" valign="top">
-      <table width="100%" cellpadding="18" cellspacing="0" bgcolor="#0B1220" border="1" bordercolor="#1E293B">
-        <tr>
-          <td valign="top">
-            <p align="left">
-              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#A78BFA" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-                <path d="M12 2l1.7 4.8L19 9l-4.6 2.2L12 16l-2.4-4.8L5 9l5.3-2.2L12 2z" />
-                <path d="M4 20h16" />
-              </svg>
-              <strong>AI Development</strong>
-            </p>
-            <p>
-              Intelligent systems designed to solve real business problems with clarity, speed, and measurable outcomes.
-            </p>
-            <ul>
-              <li>AI Development</li>
-              <li>AI Automation</li>
-              <li>AI Chatbots</li>
-              <li>Prompt Engineering</li>
-              <li>AI Agents</li>
-            </ul>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td width="33.33%" valign="top">
-      <table width="100%" cellpadding="18" cellspacing="0" bgcolor="#0B1220" border="1" bordercolor="#1E293B">
-        <tr>
-          <td valign="top">
-            <p align="left">
-              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#67E8F9" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-                <path d="M4 7h16" />
-                <path d="M4 17h16" />
-                <path d="M9 4L4 12l5 8" />
-                <path d="M15 4l5 8-5 8" />
-              </svg>
-              <strong>Custom Web Applications</strong>
-            </p>
-            <p>
-              Premium digital products built to be fast, scalable, and ready for serious business use.
-            </p>
-            <ul>
-              <li>Custom Web Applications</li>
-              <li>SaaS Development</li>
-              <li>Business Software</li>
-              <li>Enterprise Applications</li>
-              <li>Modern Web Applications</li>
-            </ul>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td width="33.33%" valign="top">
-      <table width="100%" cellpadding="18" cellspacing="0" bgcolor="#0B1220" border="1" bordercolor="#1E293B">
-        <tr>
-          <td valign="top">
-            <p align="left">
-              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#34D399" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-                <path d="M12 20l4-14-14 4 7 3 3 7z" />
-                <path d="M13 11l8-8" />
-              </svg>
-              <strong>Design, Growth &amp; Brand</strong>
-            </p>
-            <p>
-              Design systems and brand experiences that feel refined, consistent, and conversion-friendly.
-            </p>
-            <ul>
-              <li>UI/UX Design</li>
-              <li>Graphic Design</li>
-              <li>Brand Identity</li>
-              <li>SEO</li>
-              <li>Digital Marketing</li>
-            </ul>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
----
-
-<h2 align="center">Current Focus</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=750&color=93C5FD&center=true&vCenter=true&multiline=false&repeat=true&width=920&lines=Building+AI+Products;Enterprise+Software;Automation;Modern+Web+Applications;Open+Source;Learning+New+Technologies" alt="Current focus typing animation" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Building-AI%20Products-111827?style=for-the-badge&logo=openai&logoColor=white" alt="Building AI Products" />
-  <img src="https://img.shields.io/badge/Enterprise-Software-111827?style=for-the-badge&logo=github&logoColor=white" alt="Enterprise Software" />
-  <img src="https://img.shields.io/badge/Automation-Systems-111827?style=for-the-badge&logo=zapier&logoColor=white" alt="Automation" />
-  <img src="https://img.shields.io/badge/Modern-Web%20Applications-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Modern Web Applications" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-111827?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
-  <img src="https://img.shields.io/badge/Learning-New%20Technologies-111827?style=for-the-badge&logo=bookstack&logoColor=white" alt="Learning New Technologies" />
-</p>
-
----
-
-<h2 align="center">GitHub Dashboard</h2>
-
-<p align="center">
-  A live snapshot of the public work behind the profile, arranged for fast scanning and visual balance.
-</p>
-
-<table align="center" width="100%" cellpadding="0" cellspacing="16">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&no-bg=true&no-frame=true&row=1&column=3&margin-w=10&margin-h=10" alt="GitHub Trophy" width="100%" />
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="GitHub Stats" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top Languages" width="100%" />
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&bg_color=0B1220&color=C7D2FE&line=A78BFA&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-        <img alt="Contribution Snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" width="100%" />
-      </picture>
-    </td>
-  </tr>
-</table>
-
----
-
-<h2 align="center">Connect</h2>
-
-<p align="center">
-  <a href="https://fahadusmanii.vercel.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
-  <a href="https://fahadusmanii.vercel.app/#portfolio" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/fahad-usmani7" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
-
-<p align="center">
-  <a href="https://www.instagram.com/fahad__7311" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://x.com/search?q=%22Muhammad%20Fahad%20Usmani%22&src=typed_query" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="mailto:fahad.usmanistack@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer" alt="Footer capsule" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=111827&style=flat-square" alt="Profile views" />
-</p>
-
-<p align="center"><strong>Random Developer Quote</strong></p>
+<!--
+  Muhammad Fahad Usmani | GitHub Profile
+  Handcrafted for GitHub's HTML and Markdown renderer.
+  Palette: obsidian, violet, electric blue, cool white.
+-->
 
 <div align="center">
-  <blockquote>Simple things should be simple, complex things should be possible.</blockquote>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:4c1d95,100:0ea5e9&height=260&section=header&text=Muhammad%20Fahad%20Usmani&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Founder%20%26%20Lead%20Developer%20at%20Usmani%20Stack&descSize=17&descAlignY=58&animation=fadeIn" alt="Muhammad Fahad Usmani header" />
+
+<a href="https://github.com/fahadusmanii731">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2400&pause=700&color=8B5CF6&center=true&vCenter=true&repeat=true&width=900&height=55&lines=Founder+%26+Lead+Developer;AI+Developer;Full+Stack+Developer;Software+Engineer;Graphic+Designer;UI%2FUX+Designer;Digital+Strategist" alt="Animated professional roles" />
+</a>
+
+<p>
+  <img src="https://img.shields.io/badge/AI_POWERED-PRODUCTS-111827?style=for-the-badge&labelColor=111827&color=7c3aed" alt="AI powered products" />
+  <img src="https://img.shields.io/badge/FULL_STACK-ENGINEERING-111827?style=for-the-badge&labelColor=111827&color=2563eb" alt="Full stack engineering" />
+  <img src="https://img.shields.io/badge/PRODUCT-DESIGN-111827?style=for-the-badge&labelColor=111827&color=0891b2" alt="Product design" />
+  <img src="https://img.shields.io/badge/AVAILABLE-WORLDWIDE-111827?style=for-the-badge&labelColor=111827&color=0f766e" alt="Available worldwide" />
+</p>
+
+<a href="https://fahadusmanii.vercel.app/">
+  <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-050816?style=for-the-badge&logo=vercel&logoColor=white" alt="View portfolio" />
+</a>
+<a href="mailto:fahad.usmanistack@gmail.com">
+  <img src="https://img.shields.io/badge/START_A_PROJECT-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a project" />
+</a>
+
 </div>
 
-<p align="center">
-  <strong>Thank you for visiting.</strong><br>
-  If my work resonates with you, explore the repositories, study the details, and feel free to connect for collaboration, partnerships, or premium digital solutions.
-</p>
+<br>
+
+<!-- ABOUT -->
+
+<div align="center">
+  <h2>Designing Intelligence. Engineering Impact.</h2>
+  <p><code>ABOUT / VISION / CRAFT</code></p>
+</div>
+
+<blockquote>
+  <p>
+    I am <strong>Muhammad Fahad Usmani</strong>, a multidisciplinary Full Stack Developer,
+    AI Developer, Software Engineer, Graphic Designer, UI/UX Designer, and Digital Strategist.
+    I combine engineering depth with a designer's attention to detail to create digital products
+    that are useful, scalable, and unmistakably well crafted.
+  </p>
+  <p>
+    As the <strong>Founder and Lead Developer of Usmani Stack</strong>, I lead an AI-powered digital
+    agency that helps businesses build intelligent products and modern software solutions. My work
+    spans Artificial Intelligence, AI Automation, Full Stack Development, Modern Web Applications,
+    SaaS Platforms, Business Software, Enterprise Applications, Responsive Websites, UI/UX Design,
+    Graphic Design, Brand Identity, SEO, and Digital Marketing.
+  </p>
+  <p>
+    I enjoy transforming ambitious ideas into dependable digital products with clear architecture,
+    thoughtful interfaces, and exceptional user experiences. The goal is never simply to ship.
+    The goal is to build something valuable, memorable, and ready to grow.
+  </p>
+</blockquote>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-111827?style=flat-square&logo=openai&logoColor=a78bfa" alt="Artificial intelligence" />
+  <img src="https://img.shields.io/badge/SaaS_Platforms-111827?style=flat-square&logo=vercel&logoColor=60a5fa" alt="SaaS platforms" />
+  <img src="https://img.shields.io/badge/Enterprise_Applications-111827?style=flat-square&logo=nextdotjs&logoColor=67e8f9" alt="Enterprise applications" />
+  <img src="https://img.shields.io/badge/Brand_Identity-111827?style=flat-square&logo=adobeillustrator&logoColor=fbbf24" alt="Brand identity" />
+  <img src="https://img.shields.io/badge/Digital_Strategy-111827?style=flat-square&logo=googleanalytics&logoColor=34d399" alt="Digital strategy" />
+</div>
+
+<br>
+
+<!-- EXPERIENCE -->
+
+<div align="center">
+  <h2>Experience Built Across Code and Design</h2>
+  <p>Leadership, product engineering, and visual communication in one practice.</p>
+</div>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <img src="https://img.shields.io/badge/01-FOUNDER_%26_LEAD_DEVELOPER-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Founder and Lead Developer" />
+        <h3>Usmani Stack</h3>
+        <p><strong>AI-Powered Digital Agency</strong></p>
+        <p><code>Remote / Worldwide</code></p>
+      </div>
+      <p>
+        I founded and lead Usmani Stack with responsibility for product direction, technical
+        architecture, interface quality, delivery, and digital growth. I work from early strategy
+        through production, connecting business goals with practical software and design systems.
+      </p>
+      <hr>
+      <p align="center">
+        <code>AI Development</code> <code>AI Automation</code><br>
+        <code>AI Chatbots</code> <code>Custom Software Development</code><br>
+        <code>Full Stack Development</code> <code>SaaS Development</code><br>
+        <code>Business Websites</code> <code>UI/UX Design</code><br>
+        <code>Graphic Design</code> <code>Brand Identity</code><br>
+        <code>SEO</code> <code>Digital Marketing</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <img src="https://img.shields.io/badge/02-GRAPHIC_DESIGNER-0891b2?style=for-the-badge&logo=adobecreativecloud&logoColor=white" alt="Graphic Designer" />
+        <h3>Learning Resource Network</h3>
+        <p><strong>United Kingdom</strong></p>
+        <p><code>More than one year</code></p>
+      </div>
+      <p>
+        For more than one year, I have designed professional educational and institutional material
+        for LRN. The role demands accuracy, strong typography, consistent visual systems, and a
+        production-ready understanding of both digital and printed communication.
+      </p>
+      <hr>
+      <p align="center">
+        <code>Educational Book Design</code> <code>Academic Publications</code><br>
+        <code>Book Layout Design</code> <code>Timetable Design</code><br>
+        <code>Print Materials</code> <code>Learning Resources</code><br>
+        <code>Official Documents</code> <code>Certificates</code><br>
+        <code>Marketing Materials</code> <code>Typography</code><br>
+        <code>Publication Design</code> <code>Print Production</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- TECHNOLOGY -->
+
+<div align="center">
+  <h2>The Technology Canvas</h2>
+  <p>One connected toolkit for strategy, interface, infrastructure, intelligence, and delivery.</p>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,react,nextjs,nodejs,express,mongodb,mysql,tailwind,git,github,linux,vscode,postman,vercel,cloudflare,figma,ps,ai,webflow,firebase,supabase,npm,pnpm,bun,md,docker&perline=10&theme=dark" alt="Technology icon wall" />
+  </a>
+  <br>
+  <br>
+  <img src="https://img.shields.io/badge/Framer-111827?style=for-the-badge&logo=framer&logoColor=67e8f9" alt="Framer" />
+  <img src="https://img.shields.io/badge/AI_Development-111827?style=for-the-badge&logo=openai&logoColor=a78bfa" alt="AI Development" />
+  <img src="https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai&logoColor=ffffff" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-111827?style=for-the-badge&logo=openai&logoColor=60a5fa" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge&logo=openai&logoColor=34d399" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/AI_Automation-111827?style=for-the-badge&logo=githubactions&logoColor=22d3ee" alt="AI Automation" />
+  <br>
+  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=60a5fa" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=4ade80" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=4ade80" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge&logo=postman&logoColor=fb923c" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=22d3ee" alt="Tailwind CSS" />
+  <br>
+  <img src="https://img.shields.io/badge/UI%2FUX_Design-111827?style=for-the-badge&logo=figma&logoColor=f472b6" alt="UI UX Design" />
+  <img src="https://img.shields.io/badge/Graphic_Design-111827?style=for-the-badge&logo=adobecreativecloud&logoColor=f87171" alt="Graphic Design" />
+  <img src="https://img.shields.io/badge/Publication_Design-111827?style=for-the-badge&logo=adobeindesign&logoColor=f472b6" alt="Publication Design" />
+  <img src="https://img.shields.io/badge/SEO-111827?style=for-the-badge&logo=google&logoColor=34d399" alt="SEO" />
+  <img src="https://img.shields.io/badge/Business_Software-111827?style=for-the-badge&logo=sap&logoColor=60a5fa" alt="Business Software" />
+  <img src="https://img.shields.io/badge/Enterprise_Applications-111827?style=for-the-badge&logo=linuxfoundation&logoColor=a78bfa" alt="Enterprise Applications" />
+</div>
+
+<br>
+
+<!-- SERVICES -->
+
+<div align="center">
+  <h2>What I Build</h2>
+  <p>Focused digital capabilities designed to move a business from idea to lasting product.</p>
+</div>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/AI-DEVELOPMENT-7c3aed?style=for-the-badge&logo=openai&logoColor=white" alt="AI Development icon" />
+      <p>Intelligent products, AI-assisted workflows, conversational experiences, and practical model integrations.</p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/AI-AUTOMATION-2563eb?style=for-the-badge&logo=githubactions&logoColor=white" alt="AI Automation icon" />
+      <p>Reliable automations that connect tools, reduce repetitive work, and improve operational speed.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/BUSINESS-SOFTWARE-0891b2?style=for-the-badge&logo=sap&logoColor=white" alt="Business Software icon" />
+      <p>Purpose-built platforms that organize data, simplify operations, and support informed decisions.</p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/CUSTOM-WEB_APPLICATIONS-0f766e?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Custom Web Applications icon" />
+      <p>Fast, secure, responsive web applications engineered around real users and business requirements.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/SAAS-DEVELOPMENT-4f46e5?style=for-the-badge&logo=vercel&logoColor=white" alt="SaaS Development icon" />
+      <p>Scalable subscription products with thoughtful architecture, polished onboarding, and room to evolve.</p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/UI%2FUX-DESIGN-9333ea?style=for-the-badge&logo=figma&logoColor=white" alt="UI UX Design icon" />
+      <p>Research-led interfaces, clear design systems, and interaction decisions that feel effortless.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/GRAPHIC-DESIGN-be185d?style=for-the-badge&logo=adobecreativecloud&logoColor=white" alt="Graphic Design icon" />
+      <p>Refined visual communication for digital products, campaigns, publications, and print.</p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/SEO-047857?style=for-the-badge&logo=google&logoColor=white" alt="SEO icon" />
+      <p>Technical and content foundations that improve discoverability, performance, and sustainable reach.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/BRAND-IDENTITY-b45309?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Brand Identity icon" />
+      <p>Cohesive identity systems built to communicate character, credibility, and long-term recognition.</p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/DIGITAL-MARKETING-b91c1c?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Digital Marketing icon" />
+      <p>Focused strategies that align content, channels, creative direction, and measurable growth.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- CURRENT FOCUS -->
+
+<div align="center">
+  <h2>Now / Next</h2>
+  <a href="https://github.com/fahadusmanii731?tab=repositories">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=1900&pause=500&color=22D3EE&center=true&vCenter=true&repeat=true&width=850&height=45&lines=Building+AI+Products;Engineering+Enterprise+Software;Automating+Complex+Workflows;Crafting+Modern+Web+Applications;Contributing+to+Open+Source;Learning+New+Technologies" alt="Animated current focus" />
+  </a>
+  <p>
+    <img src="https://img.shields.io/badge/BUILDING-AI_PRODUCTS-111827?style=flat-square&logo=openai&logoColor=a78bfa" alt="Building AI products" />
+    <img src="https://img.shields.io/badge/ENGINEERING-ENTERPRISE_SOFTWARE-111827?style=flat-square&logo=linuxfoundation&logoColor=60a5fa" alt="Enterprise software" />
+    <img src="https://img.shields.io/badge/AUTOMATING-WORKFLOWS-111827?style=flat-square&logo=githubactions&logoColor=22d3ee" alt="Automation" />
+    <img src="https://img.shields.io/badge/CRAFTING-WEB_APPLICATIONS-111827?style=flat-square&logo=nextdotjs&logoColor=ffffff" alt="Modern web applications" />
+    <img src="https://img.shields.io/badge/CONTRIBUTING-OPEN_SOURCE-111827?style=flat-square&logo=github&logoColor=34d399" alt="Open source" />
+    <img src="https://img.shields.io/badge/LEARNING-ALWAYS-111827?style=flat-square&logo=bookstack&logoColor=fbbf24" alt="Learning new technologies" />
+  </p>
+</div>
+
+<br>
+
+<!-- GITHUB DASHBOARD -->
+
+<div align="center">
+  <h2>GitHub Intelligence</h2>
+  <p>Public work, consistency, language patterns, and contribution momentum.</p>
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=fahadusmanii731&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub profile trophies" />
+</div>
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=fahadusmanii731&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&title_color=a78bfa&icon_color=22d3ee&text_color=cbd5e1&bg_color=0d1117" alt="Muhammad Fahad Usmani GitHub stats" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadusmanii731&layout=compact&langs_count=8&hide_border=true&title_color=a78bfa&text_color=cbd5e1&bg_color=0d1117" alt="Most used GitHub languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img width="70%" src="https://streak-stats.demolab.com?user=fahadusmanii731&hide_border=true&background=0D1117&ring=8B5CF6&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=CBD5E1&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub contribution streak" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fahadusmanii731&bg_color=0d1117&color=a78bfa&line=22d3ee&point=f8fafc&area=true&hide_border=true&custom_title=Contribution%20Architecture" alt="GitHub contribution activity graph" />
+</div>
+
+<!--
+  Contribution Snake:
+  A snake image is intentionally not embedded until the profile repository has generated its own
+  output branch with Platane/snk. This prevents a fake identity or broken image from appearing.
+-->
+
+<br>
+
+<!-- CONNECT -->
+
+<div align="center">
+  <h2>Build Something Exceptional</h2>
+  <p>For product work, design systems, AI solutions, and thoughtful digital collaboration.</p>
+  <br>
+  <a href="https://fahadusmanii.vercel.app/">
+    <img src="https://img.shields.io/badge/WEBSITE-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://fahadusmanii.vercel.app/#portfolio">
+    <img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=framer&logoColor=a78bfa" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/fahad-usmani7">
+    <img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=60a5fa" alt="LinkedIn" />
+  </a>
+  <br>
+  <a href="https://www.instagram.com/fahad__7311">
+    <img src="https://img.shields.io/badge/INSTAGRAM-111827?style=for-the-badge&logo=instagram&logoColor=f472b6" alt="Instagram" />
+  </a>
+  <img src="https://img.shields.io/badge/X-NOT_PUBLICLY_LISTED-111827?style=for-the-badge&logo=x&logoColor=cbd5e1" alt="X profile not publicly listed" />
+  <a href="mailto:fahad.usmanistack@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=f87171" alt="Email" />
+  </a>
+</div>
+
+<br>
+
+<!-- FOOTER -->
+
+<div align="center">
+  <h3>A principle I build by</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3600&pause=1200&color=94A3B8&center=true&vCenter=true&repeat=true&width=900&height=70&lines=Great+software+is+clarity+made+useful.;Design+is+how+the+system+explains+itself.;Build+for+the+user.+Engineer+for+the+future." alt="Rotating developer quotes" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=fahadusmanii731&style=for-the-badge&color=7c3aed&label=PROFILE+VISITORS" alt="Profile visitor counter" />
+  <br>
+  <br>
+  <p>
+    <strong>Thank you for visiting.</strong><br>
+    Explore the repositories, follow the work, or get in touch to create something meaningful.
+  </p>
+  <a href="https://github.com/fahadusmanii731?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE_THE_WORK-050816?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+  </a>
+  <br>
+  <br>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:4c1d95,100:050816&height=150&section=footer&animation=fadeIn" alt="Animated footer" />
+</div>
