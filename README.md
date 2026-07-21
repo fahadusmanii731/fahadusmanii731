@@ -6,6 +6,8 @@
 
 <div align="center">
 
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Animation" width="400" style="border-radius: 15px;"/>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:4c1d95,100:0ea5e9&height=260&section=header&text=Muhammad%20Fahad%20Usmani&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Founder%20%26%20Lead%20Developer%20at%20Usmani%20Stack&descSize=17&descAlignY=58&animation=fadeIn" alt="Muhammad Fahad Usmani header" />
 
 <a href="https://github.com/fahadusmanii731">
@@ -242,42 +244,6 @@
 
 <br>
 
-<!-- GITHUB DASHBOARD -->
-
-<div align="center">
-  <h2>GitHub Intelligence</h2>
-  <p>Public work, consistency, language patterns, and contribution momentum.</p>
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=fahadusmanii731&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub profile trophies" />
-</div>
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=fahadusmanii731&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&title_color=a78bfa&icon_color=22d3ee&text_color=cbd5e1&bg_color=0d1117" alt="Muhammad Fahad Usmani GitHub stats" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadusmanii731&layout=compact&langs_count=8&hide_border=true&title_color=a78bfa&text_color=cbd5e1&bg_color=0d1117" alt="Most used GitHub languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img width="70%" src="https://streak-stats.demolab.com?user=fahadusmanii731&hide_border=true&background=0D1117&ring=8B5CF6&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=CBD5E1&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub contribution streak" />
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fahadusmanii731&bg_color=0d1117&color=a78bfa&line=22d3ee&point=f8fafc&area=true&hide_border=true&custom_title=Contribution%20Architecture" alt="GitHub contribution activity graph" />
-</div>
-
-<!--
-  Contribution Snake:
-  A snake image is intentionally not embedded until the profile repository has generated its own
-  output branch with Platane/snk. This prevents a fake identity or broken image from appearing.
--->
-
-<br>
-
 <!-- CONNECT -->
 
 <div align="center">
@@ -318,7 +284,7 @@
     <strong>Thank you for visiting.</strong><br>
     Explore the repositories, follow the work, or get in touch to create something meaningful.
   </p>
-  <a href="https://github.com/fahadusmanii731?tab=repositories">
+  <a href="https://fahadusmanii.vercel.app/#portfolio">
     <img src="https://img.shields.io/badge/EXPLORE_THE_WORK-050816?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
   </a>
   <br>
