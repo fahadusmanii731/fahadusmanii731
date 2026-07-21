@@ -6,9 +6,9 @@
 
 <div align="center">
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Animation" width="400" style="border-radius: 15px;"/>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Animation" width="400" style="border-radius: 15px; margin-bottom: 10px;"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:4c1d95,100:0ea5e9&height=260&section=header&text=Muhammad%20Fahad%20Usmani&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Founder%20%26%20Lead%20Developer%20at%20Usmani%20Stack&descSize=17&descAlignY=58&animation=fadeIn" alt="Muhammad Fahad Usmani header" />
+<h1>Muhammad Fahad Usmani</h1>
 
 <a href="https://github.com/fahadusmanii731">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2400&pause=700&color=8B5CF6&center=true&vCenter=true&repeat=true&width=900&height=55&lines=Founder+%26+Lead+Developer;AI+Developer;Full+Stack+Developer;Software+Engineer;Graphic+Designer;UI%2FUX+Designer;Digital+Strategist" alt="Animated professional roles" />
