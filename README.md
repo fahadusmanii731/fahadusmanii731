@@ -277,9 +277,6 @@
   <h3>A principle I build by</h3>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3600&pause=1200&color=94A3B8&center=true&vCenter=true&repeat=true&width=900&height=70&lines=Great+software+is+clarity+made+useful.;Design+is+how+the+system+explains+itself.;Build+for+the+user.+Engineer+for+the+future." alt="Rotating developer quotes" />
   <br>
-  <img src="https://komarev.com/ghpvc/?username=fahadusmanii731&style=for-the-badge&color=7c3aed&label=PROFILE+VISITORS" alt="Profile visitor counter" />
-  <br>
-  <br>
   <p>
     <strong>Thank you for visiting.</strong><br>
     Explore the repositories, follow the work, or get in touch to create something meaningful.
