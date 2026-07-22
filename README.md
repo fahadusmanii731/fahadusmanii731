@@ -134,7 +134,7 @@
   <h2>The Technology Canvas</h2>
   <p>One connected toolkit for strategy, interface, infrastructure, intelligence, and delivery.</p>
   <br>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,react,nextjs,nodejs,express,mongodb,mysql,tailwind,bootstrap,firebase,supabase,flutter,flask,vite,figma,ps,ai,git,github,linux,vscode,postman,vercel,cloudflare,npm,pnpm,bun,docker,aws,azure,gcp,powershell,pycharm,anaconda,md,wordpress,webflow&perline=10&theme=dark" alt="Development Icons" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,react,nextjs,nodejs,express,mongodb,mysql,tailwind,bootstrap,firebase,supabase,flutter,flask,vite,figma,ps,ai,git,github,linux,vscode,postman,vercel,cloudflare,npm,pnpm,bun,docker,aws,azure,gcp,powershell,pycharm,anaconda,wordpress,webflow&perline=10&theme=dark" alt="Development Icons" />
   <br>
   <br>
   <img src="https://img.shields.io/badge/Framer-111827?style=for-the-badge&logo=framer&logoColor=67e8f9" alt="Framer" />
