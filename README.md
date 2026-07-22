@@ -134,9 +134,17 @@
   <h2>The Technology Canvas</h2>
   <p>One connected toolkit for strategy, interface, infrastructure, intelligence, and delivery.</p>
   <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,react,nextjs,nodejs,express,mongodb,mysql,tailwind,git,github,linux,vscode,postman,vercel,cloudflare,figma,ps,ai,webflow,firebase,supabase,npm,pnpm,bun,md,docker&perline=10&theme=dark" alt="Technology icon wall" />
-  </a>
+  ### Development
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,react,nextjs,nodejs,express,mongodb,mysql,tailwind,bootstrap,firebase,supabase,flutter,flask,vite&perline=10&theme=dark" alt="Development Icons" />
+
+### Design
+<img src="https://skillicons.dev/icons?i=figma,ps,ai&perline=10&theme=dark" alt="Design Icons" />
+
+### Tools & Infrastructure
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,vercel,cloudflare,npm,pnpm,bun,docker,aws,azure,gcp,powershell,pycharm,anaconda,md&perline=10&theme=dark" alt="Tools and Infrastructure Icons" />
+
+### Marketing & CMS
+<img src="https://skillicons.dev/icons?i=wordpress,webflow&perline=10&theme=dark" alt="Marketing and CMS Icons" />
   <br>
   <br>
   <img src="https://img.shields.io/badge/Framer-111827?style=for-the-badge&logo=framer&logoColor=67e8f9" alt="Framer" />
