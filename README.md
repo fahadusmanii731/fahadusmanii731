@@ -1,24 +1,14 @@
 <div align="center">
-
-<h1>Muhammad Fahad Usmani</h1>
-
-<a href="https://github.com/fahadusmanii731">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2400&pause=700&color=8B5CF6&center=true&vCenter=true&repeat=true&width=900&height=55&lines=Founder+%26+Lead+Developer;AI+Developer;Full+Stack+Developer;UI%2FUX+%26+Graphic+Designer" alt="Roles" />
-</a>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:4c1d95,100:050816&height=140&section=header&text=Muhammad%20Fahad%20Usmani&fontColor=ffffff&fontSize=34&fontAlignY=40" width="100%" alt="Header" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2200&pause=700&color=22D3EE&center=true&vCenter=true&width=700&height=40&lines=Designing+Intelligence.+Engineering+Impact.;AI+%7C+Full+Stack+%7C+UI%2FUX+%7C+Graphic+Design" alt="Tagline" />
+<p>Founder & Lead Developer at <a href="https://fahadusmanii.vercel.app/"><strong>Usmani Stack</strong></a>, an AI-powered digital agency<br>
+Graphic Designer at Learning Resource Network (UK) · Available worldwide</p>
+<img src="https://skillicons.dev/icons?i=ts,py,react,nextjs,nodejs,mongodb,tailwind,figma,ps,ai,docker,aws&perline=12&theme=dark" alt="Tech stack" />
 <p>
-  <img src="https://img.shields.io/badge/AI_POWERED-PRODUCTS-111827?style=for-the-badge&color=7c3aed" alt="AI" />
-  <img src="https://img.shields.io/badge/FULL_STACK-ENGINEERING-111827?style=for-the-badge&color=2563eb" alt="Full stack" />
-  <img src="https://img.shields.io/badge/PRODUCT-DESIGN-111827?style=for-the-badge&color=0891b2" alt="Design" />
+<a href="https://fahadusmanii.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/fahad-usmani7"><img src="https://img.shields.io/badge/LINKEDIN-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/fahad__7311"><img src="https://img.shields.io/badge/INSTAGRAM-be185d?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="mailto:fahad.usmanistack@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0891b2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
-<p>Founder of <strong>Usmani Stack</strong>, an AI-powered digital agency. I build AI products, SaaS platforms, web apps, and brand/UI design, and I've also designed educational publications for Learning Resource Network (UK).</p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,react,nextjs,nodejs,mongodb,tailwind,figma,ps,ai,git,docker,aws&perline=8&theme=dark" alt="Tech stack" />
-
-<br><br>
-<a href="https://fahadusmanii.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-050816?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/fahad-usmani7"><img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=60a5fa" alt="LinkedIn" /></a>
-<a href="mailto:fahad.usmanistack@gmail.com"><img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=f87171" alt="Email" /></a>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:4c1d95,100:050816&height=100&section=footer" width="100%" alt="Footer" />
 </div>
