@@ -3,26 +3,33 @@
 <h1>Muhammad Fahad Usmani</h1>
 
 <a href="https://github.com/fahadusmanii731">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2400&pause=700&color=8B5CF6&center=true&vCenter=true&repeat=true&width=700&height=45&lines=AI+Developer;Full+Stack+Developer;Software+Engineer;UI%2FUX+Designer;Graphic+Designer" alt="Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2400&pause=700&color=8B5CF6&center=true&vCenter=true&repeat=true&width=700&height=40&lines=AI+Developer;Full+Stack+Developer;Software+Engineer;UI%2FUX+Designer;Graphic+Designer" alt="Roles" />
 </a>
 
-<p><em>Designing Intelligence. Engineering Impact.</em></p>
-
-<a href="https://fahadusmanii.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-7c3aed?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/fahad-usmani7"><img src="https://img.shields.io/badge/LINKEDIN-2563eb?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:fahad.usmanistack@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0891b2?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-
-</div>
+<sub><i>Designing Intelligence. Engineering Impact.</i></sub>
 
 <br>
 
-<table width="100%">
-  <tr><td width="140" valign="top"><strong>About</strong></td>
-  <td>Multidisciplinary developer and designer building AI products, SaaS platforms, modern web apps, and brand identities. I combine engineering depth with a designer's eye to create work that is useful, scalable, and well crafted.</td></tr>
-  <tr><td valign="top"><strong>Focus</strong></td>
-  <td>AI development and automation &nbsp;|&nbsp; Full stack and SaaS &nbsp;|&nbsp; UI/UX design &nbsp;|&nbsp; Brand identity &nbsp;|&nbsp; SEO</td></tr>
-  <tr><td valign="top"><strong>Experience</strong></td>
-  <td>Graphic Designer at <strong>Learning Resource Network (UK)</strong>, 1+ year. Educational publications, book layouts, certificates, and print materials.</td></tr>
-  <tr><td valign="top"><strong>Tech Stack</strong></td>
-  <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,py,react,nextjs,nodejs,mongodb,tailwind,firebase,figma,ps,ai,git,docker,aws,vercel&perline=9&theme=dark" alt="Tech stack" /></td></tr>
-</table>
+<a href="https://fahadusmanii.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/fahad-usmani7"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=60a5fa" alt="LinkedIn" /></a>
+<a href="mailto:fahad.usmanistack@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=flat-square&logo=gmail&logoColor=f87171" alt="Email" /></a>
+
+<br>
+
+<hr width="60%">
+
+<sub><b>A B O U T</b></sub>
+
+<p>Multidisciplinary developer and designer building AI products, SaaS platforms,<br>modern web applications, and brand identities. I combine engineering depth<br>with a designer's eye to create work that is useful, scalable, and well crafted.</p>
+
+<sub><b>E X P E R I E N C E</b></sub>
+
+<p><b>Graphic Designer</b>, Learning Resource Network (UK)<br><sub>1+ year · Educational publications, book layouts, certificates, print materials</sub></p>
+
+<sub><b>T E C H   S T A C K</b></sub>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,react,nextjs,nodejs,mongodb,tailwind,firebase,figma,ps,ai,git,docker,aws,vercel&perline=9&theme=dark" alt="Tech stack" />
+
+</div>
